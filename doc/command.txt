@@ -1,0 +1,2 @@
+- nest generate module common
+- nest generate controller user
